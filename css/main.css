@@ -1,0 +1,27 @@
+.family_fonts {
+    font-family: 'Economica', sans-serif;
+}
+
+.img_logo {
+    width: 40px;
+    height: 40px;
+}
+
+.header_fondo {
+    background-image: url('../img/header.png');
+    background-size: cover;
+}
+
+.hr{
+    border: 5px solid blue;
+    border-radius: 5px;
+}
+
+.img_about {
+    width: 400px;
+}
+
+.img_avatar {
+    width: 250px;
+    height: 250px;
+}
